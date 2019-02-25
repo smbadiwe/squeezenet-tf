@@ -1,0 +1,6 @@
+venv
+.vscode
+.idea
+*.pdf
+__pycache__
+*.py_*
